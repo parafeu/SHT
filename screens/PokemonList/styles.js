@@ -9,6 +9,6 @@ export default styles = StyleSheet.create({
         alignItems: "center",
         backgroundColor: "white",
         borderRadius: 3,
-        height: 50
+        height: 75
     }
 })
